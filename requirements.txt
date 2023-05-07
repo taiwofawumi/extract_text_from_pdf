@@ -1,0 +1,7 @@
+PyPDF2
+numpy
+pandas
+matplotlib
+jupyter
+python-docx
+glog
